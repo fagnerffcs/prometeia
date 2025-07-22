@@ -1,0 +1,8 @@
+# requirements.txt
+transformers
+sentence-transformers
+faiss-cpu
+PyMuPDF
+gradio
+numpy
+torch
